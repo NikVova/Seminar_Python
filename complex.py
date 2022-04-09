@@ -18,4 +18,5 @@ def count(x, y, action):
     else:
         print('Input error')
 
-# print(count('3 + 6j', '4 + 4j', '+'))
+
+# print(count('5 + 10j', '5 + 10j', '/'))
