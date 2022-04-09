@@ -3,7 +3,7 @@ from fractions import Fraction
 
 def calc(a, b, action):
     a = str_frac(a)
-    b = str_fract(b)
+    b = str_frac(b)
     if action == '+':
         return a + b
     elif action == '-':
